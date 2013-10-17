@@ -21,4 +21,10 @@ void libb_how_are_you(){
   printf("c\'est pas une question\n");
 
 }
+
+void libb_happy(){
+  printf("je suis un gros feneant\n");
+}
+
+ 
 /* EOF */
