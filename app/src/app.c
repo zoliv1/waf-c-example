@@ -19,6 +19,8 @@ int main(int argc, char **argv) {
 
   libb_goodbye();
 
+  liba_greetings();
+
   return 0;
 }
 
