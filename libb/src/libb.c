@@ -14,4 +14,10 @@ void libb_hello() {
 void libb_goodbye(){
  fprintf(stdout, "%s", "----------------");
 }
+
+void libb_happy(){
+  printf("je suis un gros feneant\n");
+}
+
+ 
 /* EOF */
