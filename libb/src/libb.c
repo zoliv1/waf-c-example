@@ -14,4 +14,11 @@ void libb_hello() {
 void libb_goodbye(){
  fprintf(stdout, "%s", "----------------");
 }
+
+
+void libb_how_are_you(){
+
+  printf("c\'est pas une question\n");
+
+}
 /* EOF */
